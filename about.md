@@ -8,7 +8,7 @@ permalink: /about/
   href="https://www.instagram.com/christacaggiano/"
   data-show-count="true"
   data-size="large">
-Follow @fffabs
+i frequent instagram 
 </a>
 
 Hi. 
