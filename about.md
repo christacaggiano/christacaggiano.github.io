@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <a class="twitter-follow-button"
-  href="https://twitter.com/christacaggiano"
+  href="https://www.instagram.com/christacaggiano/"
   data-show-count="true"
   data-size="large">
 Follow @fffabs
