@@ -13,7 +13,7 @@ here's my instagram
 
 <a class="twitter-follow-button"
   href="https://www.twitter.com/christacaggiano"
-  data-show-count="true"
+  data-show-count="false"
   data-size="large">
 here's my twitter
 </a>
