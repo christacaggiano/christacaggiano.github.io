@@ -89,8 +89,8 @@ $on-palm:          600px;
 $on-laptop:        700px;
 
 // Gradient colours
-$from:  #AD76F2;
-$to:    #FD3F4F;
+// $from:  #AD76F2;
+// $to:    #FD3F4F;
 
 // 3BD8D5
 // FD3F4F
@@ -98,8 +98,8 @@ $to:    #FD3F4F;
 // $from:  #ff2299;
 // $to:    #3366ff;
 
-// $from:  #F88E25;
-// $to:    #F3286D;
+$from:  #F88E25;
+$to:    #F3286D;
 
 // Using media queries with like this:
 // @include media-query($on-palm) {

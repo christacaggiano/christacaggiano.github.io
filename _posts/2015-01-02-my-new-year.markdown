@@ -1,27 +1,17 @@
 ---
 layout: post
-title:  "My new year!"
+title:  I ❤ JMW Turner
 date:   2015-01-02 12:49:22
-description: "My new year, this is cool"
-categories: new year resolution
+description: "tldr about Turner and my art inspired by Turner but isn't as good"
+categories: art history
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In 19th century England, John Mallord William Turner was *the bomb.com*
+His work was synonymous with the ideals of a the newly emerging [Romantic movement](https://www.youtube.com/watch?v=y2LelK5Kcoc)-
+which idealized beauty, tranquility, nature, and a wistful look to the past - in a
+nation of people that was otherwise pretty busy doing things like [ruthlessly dragging its colonies into the industrial revolution](https://www.youtube.com/watch?v=ADQCeC0tF0o)
 
-Jekyll also offers powerful support for code snippets:
-<!-- linenos -->
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Turner embodied this zeitgeist (such an apt word to describe England at the time that
+the romantics literally [coined it](https://en.wikipedia.org/wiki/Zeitgeist) ) he was a rockstar of
+sorts. Showing at all the fancy art shows of the time, the famous art critic [John Ruskin](http://www.tate.org.uk/art/artists/john-ruskin-465) wrote this /completely normal/
+thing about his pal Turner's art:
