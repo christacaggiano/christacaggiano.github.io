@@ -24,28 +24,28 @@ I sort of agree with Ruskin on this- Turner has this sublime way of capturing li
 Here are some of my favorite Turners, and a few paintings I did that were inspired by Turner, but in no way as good.
 
 
-![Slave Ship](/Users/Christa.Caggiano/Documents/other/christacaggiano.github.io/assets/images/1200px-Slave-ship.jpg)
+![Slave Ship](/assets/images/turner-slave-ship.jpg)
 
 *J.M.W. Turner, The Slave Ship (1840). Oil on canvas. 90.8 × 122.6 cm, Museum of Fine Arts, Boston.*
 
-![Temples of Paestum](/Users/Christa.Caggiano/Documents/other/christacaggiano.github.io/assets/images/D27665_10.jpg)
+![Temples of Paestum](/assets/images/turner-temple.jpg)
 
 *J.M.W. Turner, Temples of Paestum (1826–7). Watercolour, gouache, and pen and ink. 95 x 180 mm, Tate Museum, London.*
 
-![Venice, Moonrise](/Users/Christa.Caggiano/Documents/other/christacaggiano.github.io/assets/images/D32126_10.jpg)
+![Venice, Moonrise](/assets/images/turner-venice.jpg)
 
 *J.M.W. Turner, Venice, Moonrise (1840). Watercolour on paper. 220 x 319 mm, Tate Museum, London.*
 
-![Venice, Moonrise](/Users/Christa.Caggiano/Documents/other/christacaggiano.github.io/assets/images/William_Turner,_Light_and_Colour.JPG)
+![Light and color](/assets/images/turner-light-color.jpg)
 
 *J.M.W. Turner, Light and Colour (Goethe's Theory) – The Morning after the Deluge – Moses Writing the Book of Genesis (1843). Oil on canvas. 78.5 × 78.5 cm, Tate Museum, London.*
 
 
 Here's my stuff:
 
-![no title](/Users/Christa.Caggiano/Documents/other/christacaggiano.github.io/assets/images/2018-01-24 05.21.44 1.jpg)
+![no title](/assets/images/turner-no-title.jpg)
 
-![no title](/Users/Christa.Caggiano/Documents/other/christacaggiano.github.io/assets/images/2018-01-24 05.20.08 1.jpg)
+![no title](/assets/images/turner-no-title2.jpg)
 
 
 
