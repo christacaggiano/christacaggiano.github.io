@@ -2,7 +2,7 @@
 layout: post
 title:  I ❤ JMW Turner
 date:   2018-1-31
-description: "tldr about Turner and my art inspired by Turner but isn't as good"
+description: "tl;dr about Turner, and my art inspired by Turner but isn't as good"
 categories: art history
 ---
 
