@@ -1,28 +1,11 @@
-
-
-<div class="header-container" id="header-container">
-
-<!-- Site navigation -->
-  <nav class="site-nav">
-    <div class="trigger">
-      {% for page in site.pages %}
-        {% if page.title %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-      <a class="page-link" href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS</a>
-      <a class="twitter page-link" href="https://twitter.com/christacaggiano"><span class="icon-twitter"></span></a>
-    </div>
+<header class="site-header">
+  <a class="site-title" href="{{ site.baseurl }}/"><img src="holder.js/500x150"></a>
+    
+  <nav class="navbar">
+    <ul>
+      <li class="nav-item"><a href="{{ site.baseurl }}/">home</a></li>
+      <li class="nav-item"><a href="{{ site.baseurl }}/about/">about</a></li>
+    </ul>
   </nav>
 
-  <!-- The title of the site -->
-  <header class="site-header">
-    <a href="{{ site.baseurl }}/">
-      <div class="avatar">
-        <img src="/assets/images/avatar.png" />
-      </div>
-    </a>
-    <!-- <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> -->
-  </header>
-
-</div>
+</header>
