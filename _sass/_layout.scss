@@ -4,10 +4,10 @@
 
 .header-intro {
     font-size: 18px;
-    color: #aaa;
+    color: #3366ff;
 }
 .header-intro a, .header-intro a:visited {
-    color: #aaa;
+    color: #3366ff;
 }
 .header-intro a:hover {
     color: $brand-color;
@@ -88,7 +88,7 @@
 }
 
 .site-header a.site-title {
-    color: #fff;
+    color: #3366ff;
     text-align: center;
 }
 
@@ -102,13 +102,13 @@
     &,
     &:visited, &:hover {
         text-decoration: none;
-        color: #7923D5;
+        color: #3366ff;
     }
 }
 
 a .site-title {
-    color: #5badf0;
-    color: #5694f1;
+    color: #3366ff;
+    color: #3366ff;
 }
 
 .page-link {
@@ -126,7 +126,7 @@ nav.site-nav {
     margin: 19px 15px;
 
     .page-link {
-        color: #fff;
+        color: #3366ff;
         font-size: 14px;
         font-weight: 600;
 
