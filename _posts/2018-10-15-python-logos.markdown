@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: post
-title:  Python Logo Sux 
+title:  Python Logos 
 date:   2018-10-15
 description: "The python logo is kind of ugly"
-categories: art
+preview: "/assets/images/snake.jpg"
 ---
 
 My [boyfriend](aryaboudaie.com) loves [Python](https://www.python.org/) (the programming language). He probably loves it more than me, which is probably a story for another time. Unfortunately for him, and for Python lovers everywhere, the Python logo is kind of ugly. 
@@ -38,4 +38,3 @@ And finally, some completely unrelated Hack the Planet designs, inspired by the 
 
 
 
- -->

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "I ❤ JMW Turner"
+title:  "JMW Turner"
 date:   2018-1-31
 description: "tl;dr about Turner, and my art inspired by Turner but isn't as good"
 preview: "/assets/images/turner-no-title.jpg"
+
 ---
 
 In 19th century England, John Mallord William Turner was *the bomb.com*
@@ -28,25 +29,24 @@ Here are some of my favorite Turners, and a few paintings I did that were inspir
 
 *J.M.W. Turner, The Slave Ship (1840). Oil on canvas. 90.8 × 122.6 cm, Museum of Fine Arts, Boston.*
 
-
-![Temples of Paestum]({{ site.baseurl }}//assets/images/turner-temple.jpg)
+![Temples of Paestum](/assets/images/turner-temple.jpg)
 
 *J.M.W. Turner, Temples of Paestum (1826–7). Watercolour, gouache, and pen and ink. 95 x 180 mm, Tate Museum, London.*
 
-![Venice, Moonrise]({{ site.baseurl }}//assets/images/turner-venice.jpg)
+![Venice, Moonrise](/assets/images/turner-venice.jpg)
 
 *J.M.W. Turner, Venice, Moonrise (1840). Watercolour on paper. 220 x 319 mm, Tate Museum, London.*
 
-![Light and color]({{ site.baseurl }}//assets/images/turner-light-color.jpg)
+![Light and color](/assets/images/turner-light-color.jpg)
 
 *J.M.W. Turner, Light and Colour (Goethe's Theory) – The Morning after the Deluge – Moses Writing the Book of Genesis (1843). Oil on canvas. 78.5 × 78.5 cm, Tate Museum, London.*
 
 
 Here's my stuff:
 
-![no title]({{ site.baseurl }}//assets/images/turner-no-title.jpg)
+![no title](/assets/images/turner-no-title.jpg)
 
-![no title]({{ site.baseurl }}//assets/images/turner-no-title2.jpg)
+![no title](/assets/images/turner-no-title2.jpg)
 
 
 
