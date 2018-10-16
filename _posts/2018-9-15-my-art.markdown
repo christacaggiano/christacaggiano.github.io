@@ -6,7 +6,6 @@ description: "Art inspired by my interest in cells and microorganisms"
 preview: "/assets/images/art3.jpg"
 ---
 
-{% include image-gallery.html folder="/assets/images" %}
 
 
 
