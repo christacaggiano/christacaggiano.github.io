@@ -4,7 +4,7 @@ title:  I ❤ JMW Turner
 date:   2018-1-31
 description: "tl;dr about Turner, and my art inspired by Turner but isn't as good"
 categories: art history
-preview: /assets/images/turner-no-title.jpg
+preview: "/assets/images/turner-no-title.jpg"
 
 ---
 
