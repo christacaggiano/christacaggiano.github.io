@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Python Logo 
+title:  Python Logo Sux 
 date:   2018-10-15
 description: "The python logo is kind of ugly"
 categories: art
