@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  Python Logo Sux 
 date:   2018-10-15
@@ -38,3 +38,4 @@ And finally, some completely unrelated Hack the Planet designs, inspired by the 
 
 
 
+ -->

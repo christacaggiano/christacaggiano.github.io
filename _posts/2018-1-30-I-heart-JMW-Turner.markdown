@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  "I ❤ JMW Turner"
 date:   2018-1-31
@@ -57,3 +57,4 @@ Here's my stuff:
 [2] [Turner is such a thing that some pretentious people made a movie about him. Watch at your own risk](http://www.imdb.com/title/tt2473794/)
 
 [3] [Bonus- read my former art history professor's very smart things about the journey of one Turner painting to America (also bonus points for this being Ruskin's favorite Turner #merica)](https://www.academia.edu/11871542/_America_s_First_Public_Turner_How_Ruskin_sold_The_Slave_Ship_to_New_York._British_Art_Journal._Ed._Robin_Simon._Vol._X_no_3_Winter_Spring_2010_69-77)
+ -->

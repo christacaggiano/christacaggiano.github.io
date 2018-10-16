@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title:  Microorganism Art
 date:   2018-9-15
@@ -36,3 +36,4 @@ find the style I like best so these are very rough ideas, but I hope you like th
 
 ![protists4](/assets/images/art7.jpg)
 *Protists, but kaleidoscopic* 
+ -->
