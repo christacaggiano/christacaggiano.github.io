@@ -4,7 +4,7 @@
 
 .header-intro {
     font-size: 18px;
-    color: #3366ff;
+    color: #aaa;
 }
 .header-intro a, .header-intro a:visited {
     color: #aaa;
@@ -26,7 +26,7 @@
     background: -webkit-linear-gradient(right top, $from 0%, $to 100%);
     background: -o-linear-gradient(right top, $from 0%, $to 100%);
     background: -ms-linear-gradient(right top, $from 0%, $to 100%);
-    background: linear, right top, #ff2299 0%, #3366ff 100%;*/
+    background: linear, right top, #ff2299 0%, #868889 100%;*/
     opacity: 0.95;
     z-index: 10;
     -webkit-transition: 0.5s;
