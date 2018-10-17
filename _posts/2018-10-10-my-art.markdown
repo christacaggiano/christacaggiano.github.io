@@ -3,13 +3,8 @@ layout: post
 title:  "My Art"
 date:   2018-10-10
 description: "My Art"
-preview: "/assets/images/turner-no-title.jpg"
-images:
-  - image: /assets/images/turner-slave-ship.jpg
-  - image: /assets/images/turner-temple.jpg
-  - image: /assets/images/turner-venice.jpg
-  - image: /assets/images/turner-light-color.jpg
+preview: "/assets/images/microorganism/art8.jpg"
 ---
 
 
-{% include image-gallery.html folder="/assets/images" %}
+{% include image-gallery.html folder="/assets/images/microorganism" %}

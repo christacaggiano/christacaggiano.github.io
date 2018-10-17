@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 16 Oct 2018 21:47:08 -0700</pubDate>
+    <lastBuildDate>Tue, 16 Oct 2018 21:47:08 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Python Logos</title>
+        <description>&lt;p&gt;My &lt;a href=&quot;aryaboudaie.com&quot;&gt;boyfriend&lt;/a&gt; loves &lt;a href=&quot;https://www.python.org/&quot;&gt;Python&lt;/a&gt; (the programming language). He probably loves it more than me, which is probably a story for another time. Unfortunately for him, and for Python lovers everywhere, the Python logo is kind of ugly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/python-logo-master-v3-TM.png&quot; alt=&quot;python_logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, in the spirit of my lame, science-themed art, I made some cool Python logos and Python art over the years.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/python3.png&quot; alt=&quot;pythonista&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/koi.jpg&quot; alt=&quot;koi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/snake.jpg&quot; alt=&quot;snakes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/flamingo.jpg&quot; alt=&quot;flamingo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/giraffe.jpg&quot; alt=&quot;giraffe&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/zebra.jpg&quot; alt=&quot;zebra&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tiedye.jpg&quot; alt=&quot;tiedye&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/tiedye2.jpg&quot; alt=&quot;tiedye2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And finally, some completely unrelated Hack the Planet designs, inspired by the seminal 1995 &lt;a href=&quot;https://www.imdb.com/title/tt0113243/&quot;&gt;Hackers&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/draft5.png&quot; alt=&quot;htp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/draft6.png&quot; alt=&quot;htp1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/draft4.png&quot; alt=&quot;htp2&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/10/15/python-logos/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/15/python-logos/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Art</title>
+        <description>&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/William_Turner,_Light_and_Colour.JPG&quot; title=&quot;William_Turner,_Light_and_Colour&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/William_Turner,_Light_and_Colour.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;William_Turner,_Light_and_Colour&quot; title=&quot;William_Turner,_Light_and_Colour&quot; /&gt;&lt;span&gt;William_Turner,_Light_and_Colour&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art1.jpg&quot; title=&quot;art1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art1&quot; title=&quot;art1&quot; /&gt;&lt;span&gt;art1&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art2.jpg&quot; title=&quot;art2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art2&quot; title=&quot;art2&quot; /&gt;&lt;span&gt;art2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art3.jpg&quot; title=&quot;art3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art3&quot; title=&quot;art3&quot; /&gt;&lt;span&gt;art3&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art4.jpg&quot; title=&quot;art4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art4&quot; title=&quot;art4&quot; /&gt;&lt;span&gt;art4&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art5.jpg&quot; title=&quot;art5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art5&quot; title=&quot;art5&quot; /&gt;&lt;span&gt;art5&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art6.jpg&quot; title=&quot;art6&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art6.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art6&quot; title=&quot;art6&quot; /&gt;&lt;span&gt;art6&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art7.jpg&quot; title=&quot;art7&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art7.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art7&quot; title=&quot;art7&quot; /&gt;&lt;span&gt;art7&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art8.jpg&quot; title=&quot;art8&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art8.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art8&quot; title=&quot;art8&quot; /&gt;&lt;span&gt;art8&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art9.jpg&quot; title=&quot;art9&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art9.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art9&quot; title=&quot;art9&quot; /&gt;&lt;span&gt;art9&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/flamingo.jpg&quot; title=&quot;flamingo&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/flamingo.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;flamingo&quot; title=&quot;flamingo&quot; /&gt;&lt;span&gt;flamingo&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/giraffe.jpg&quot; title=&quot;giraffe&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/giraffe.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;giraffe&quot; title=&quot;giraffe&quot; /&gt;&lt;span&gt;giraffe&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/koi.jpg&quot; title=&quot;koi&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/koi.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;koi&quot; title=&quot;koi&quot; /&gt;&lt;span&gt;koi&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/snake.jpg&quot; title=&quot;snake&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/snake.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;snake&quot; title=&quot;snake&quot; /&gt;&lt;span&gt;snake&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/tiedye.jpg&quot; title=&quot;tiedye&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/tiedye.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye&quot; title=&quot;tiedye&quot; /&gt;&lt;span&gt;tiedye&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/tiedye2.jpg&quot; title=&quot;tiedye2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/tiedye2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye2&quot; title=&quot;tiedye2&quot; /&gt;&lt;span&gt;tiedye2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-light-color.jpg&quot; title=&quot;turner-light-color&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-light-color.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-light-color&quot; title=&quot;turner-light-color&quot; /&gt;&lt;span&gt;turner-light-color&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-no-title.jpg&quot; title=&quot;turner-no-title&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-no-title.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-no-title&quot; title=&quot;turner-no-title&quot; /&gt;&lt;span&gt;turner-no-title&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-no-title2.jpg&quot; title=&quot;turner-no-title2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-no-title2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-no-title2&quot; title=&quot;turner-no-title2&quot; /&gt;&lt;span&gt;turner-no-title2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-slave-ship.jpg&quot; title=&quot;turner-slave-ship&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-slave-ship.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-slave-ship&quot; title=&quot;turner-slave-ship&quot; /&gt;&lt;span&gt;turner-slave-ship&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-temple.jpg&quot; title=&quot;turner-temple&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-temple.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-temple&quot; title=&quot;turner-temple&quot; /&gt;&lt;span&gt;turner-temple&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-venice.jpg&quot; title=&quot;turner-venice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-venice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-venice&quot; title=&quot;turner-venice&quot; /&gt;&lt;span&gt;turner-venice&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/zebra.jpg&quot; title=&quot;zebra&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/zebra.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;zebra&quot; title=&quot;zebra&quot; /&gt;&lt;span&gt;zebra&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/10/10/my-art/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/10/my-art/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Microorganism Art</title>
+        <description>&lt;!-- 
+
+
+I am currently working writing and illustrating a children's book about the wonderful
+world of cells! These are a few of my favorite drawings so far. I'm trying to
+find the style I like best so these are very rough ideas, but I hope you like them anyway.
+
+![viruses](/assets/images/art1.jpg)
+*Inspired by viruses but in no way actually scientifically accurate* 
+
+![eukaryotes1](/assets/images/art2.jpg)
+*Eukaryotic cells done in kind of a Warhol style but not really*
+
+![eukaryotes2](/assets/images/art4.jpg)
+*More eukaryotic cells*
+
+![eukaryotes3](/assets/images/art5.jpg)
+*Even more eukaryotes!!!*
+
+![plants](/assets/images/art3.jpg)
+*Plant cells inspired from [here](https://i.pinimg.com/originals/81/5a/8e/815a8e19fcd34feb9f2a578abb212795.jpg)*
+
+![protists1](/assets/images/art6.jpg)
+*Some sick diatoms! Image inspired from [here](https://assets.labroots.com/_public/_files/system/ck/trending/Diatom-008-2400_62cb1b5c485a08add9709693a05c40c7.jpg)*
+
+![protists2](/assets/images/art8.jpg)
+*I really like drawing diatoms they're so neat!*
+
+![protists3](/assets/images/art9.jpg)
+*Some protists, with varying degrees of accuracy*
+
+![protists4](/assets/images/art7.jpg)
+*Protists, but kaleidoscopic* 
+ --&gt;
+</description>
+        <pubDate>Sat, 15 Sep 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/09/15/my-art/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/15/my-art/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>JMW Turner</title>
+        <description>&lt;p&gt;In 19th century England, John Mallord William Turner was &lt;em&gt;the bomb.com&lt;/em&gt;
+His work was synonymous with the ideals of a the newly emerging &lt;a href=&quot;https://www.youtube.com/watch?v=y2LelK5Kcoc&quot;&gt;Romantic movement&lt;/a&gt;-
+which idealized beauty, tranquility, nature, and a wistful look to the past - in a
+nation of people that was otherwise pretty busy doing things like &lt;a href=&quot;https://www.youtube.com/watch?v=ADQCeC0tF0o&quot;&gt;ruthlessly dragging its colonies into the industrial revolution&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Turner embodied this zeitgeist (such an apt word to describe England at the time that
+the romantics literally &lt;a href=&quot;https://en.wikipedia.org/wiki/Zeitgeist&quot;&gt;coined it&lt;/a&gt; ) he was a rockstar of
+sorts. Showing at all the fancy art shows of the time, the famous art critic &lt;a href=&quot;http://www.tate.org.uk/art/artists/john-ruskin-465&quot;&gt;John Ruskin&lt;/a&gt; wrote this /completely normal/
+thing about his pal Turner’s art:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Turner’s sense of beauty, was perfect … only that of Keats and Tennyson being comparable with it. And Turner’s love of truth was as stern and patient as Dante’s.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I sort of agree with Ruskin on this- Turner has this sublime way of capturing light that communicates a breathtaking sense of beauty. Today, landscape paintings are looked down upon (and maybe some for good reason), but studying Turner has made me appreciate finding beauty in ordinary scenes. Turner also eventually got pretty crazy and abstract. He was abstract before Picasso and friends made it cool. I think it’s so rad to take visual ideas about the natural world and make them abstract. It distills his feelings about the world into a convenient little emotional bundle. For me, this captures a little bit of what it means to be human. We all relate to our environments in complex ways and the ability to be social and share our emotions. No other species has been able to do this.&lt;/p&gt;
+
+&lt;p&gt;Here are some of my favorite Turners, and a few paintings I did that were inspired by Turner, but in no way as good.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/turner-slave-ship.jpg&quot; alt=&quot;Slave Ship&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J.M.W. Turner, The Slave Ship (1840). Oil on canvas. 90.8 × 122.6 cm, Museum of Fine Arts, Boston.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/turner-temple.jpg&quot; alt=&quot;Temples of Paestum&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J.M.W. Turner, Temples of Paestum (1826–7). Watercolour, gouache, and pen and ink. 95 x 180 mm, Tate Museum, London.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/turner-venice.jpg&quot; alt=&quot;Venice, Moonrise&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J.M.W. Turner, Venice, Moonrise (1840). Watercolour on paper. 220 x 319 mm, Tate Museum, London.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/turner-light-color.jpg&quot; alt=&quot;Light and color&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;J.M.W. Turner, Light and Colour (Goethe’s Theory) – The Morning after the Deluge – Moses Writing the Book of Genesis (1843). Oil on canvas. 78.5 × 78.5 cm, Tate Museum, London.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s my stuff:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/turner-no-title.jpg&quot; alt=&quot;no title&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/turner-no-title2.jpg&quot; alt=&quot;no title&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;notes&quot;&gt;Notes&lt;/h4&gt;
+&lt;p&gt;[1] &lt;a href=&quot;http://www.tate.org.uk/art/research-publications/jmw-turner/joseph-mallord-william-turner-1775-1851-r1141041&quot;&gt;The Tate has a really nice website with Turner’s art on it&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] &lt;a href=&quot;http://www.imdb.com/title/tt2473794/&quot;&gt;Turner is such a thing that some pretentious people made a movie about him. Watch at your own risk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] &lt;a href=&quot;https://www.academia.edu/11871542/_America_s_First_Public_Turner_How_Ruskin_sold_The_Slave_Ship_to_New_York._British_Art_Journal._Ed._Robin_Simon._Vol._X_no_3_Winter_Spring_2010_69-77&quot;&gt;Bonus- read my former art history professor’s very smart things about the journey of one Turner painting to America (also bonus points for this being Ruskin’s favorite Turner #merica)&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
