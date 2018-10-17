@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Oct 2018 21:47:08 -0700</pubDate>
-    <lastBuildDate>Tue, 16 Oct 2018 21:47:08 -0700</lastBuildDate>
+    <pubDate>Wed, 17 Oct 2018 12:14:08 -0700</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 12:14:08 -0700</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -46,10 +46,10 @@
         <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/10/15/python-logos/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/15/python-logos/</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>My Art</title>
         <description>&lt;style&gt;
@@ -59,19 +59,19 @@
     .image-gallery a img {width: 100%; display: block;}
 &lt;/style&gt;
 
-&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/William_Turner,_Light_and_Colour.JPG&quot; title=&quot;William_Turner,_Light_and_Colour&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/William_Turner,_Light_and_Colour.JPG&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;William_Turner,_Light_and_Colour&quot; title=&quot;William_Turner,_Light_and_Colour&quot; /&gt;&lt;span&gt;William_Turner,_Light_and_Colour&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art1.jpg&quot; title=&quot;art1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art1&quot; title=&quot;art1&quot; /&gt;&lt;span&gt;art1&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art2.jpg&quot; title=&quot;art2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art2&quot; title=&quot;art2&quot; /&gt;&lt;span&gt;art2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art3.jpg&quot; title=&quot;art3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art3&quot; title=&quot;art3&quot; /&gt;&lt;span&gt;art3&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art4.jpg&quot; title=&quot;art4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art4&quot; title=&quot;art4&quot; /&gt;&lt;span&gt;art4&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art5.jpg&quot; title=&quot;art5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art5&quot; title=&quot;art5&quot; /&gt;&lt;span&gt;art5&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art6.jpg&quot; title=&quot;art6&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art6.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art6&quot; title=&quot;art6&quot; /&gt;&lt;span&gt;art6&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art7.jpg&quot; title=&quot;art7&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art7.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art7&quot; title=&quot;art7&quot; /&gt;&lt;span&gt;art7&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art8.jpg&quot; title=&quot;art8&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art8.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art8&quot; title=&quot;art8&quot; /&gt;&lt;span&gt;art8&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/art9.jpg&quot; title=&quot;art9&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/art9.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art9&quot; title=&quot;art9&quot; /&gt;&lt;span&gt;art9&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/flamingo.jpg&quot; title=&quot;flamingo&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/flamingo.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;flamingo&quot; title=&quot;flamingo&quot; /&gt;&lt;span&gt;flamingo&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/giraffe.jpg&quot; title=&quot;giraffe&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/giraffe.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;giraffe&quot; title=&quot;giraffe&quot; /&gt;&lt;span&gt;giraffe&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/koi.jpg&quot; title=&quot;koi&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/koi.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;koi&quot; title=&quot;koi&quot; /&gt;&lt;span&gt;koi&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/snake.jpg&quot; title=&quot;snake&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/snake.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;snake&quot; title=&quot;snake&quot; /&gt;&lt;span&gt;snake&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/tiedye.jpg&quot; title=&quot;tiedye&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/tiedye.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye&quot; title=&quot;tiedye&quot; /&gt;&lt;span&gt;tiedye&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/tiedye2.jpg&quot; title=&quot;tiedye2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/tiedye2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye2&quot; title=&quot;tiedye2&quot; /&gt;&lt;span&gt;tiedye2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-light-color.jpg&quot; title=&quot;turner-light-color&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-light-color.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-light-color&quot; title=&quot;turner-light-color&quot; /&gt;&lt;span&gt;turner-light-color&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-no-title.jpg&quot; title=&quot;turner-no-title&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-no-title.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-no-title&quot; title=&quot;turner-no-title&quot; /&gt;&lt;span&gt;turner-no-title&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-no-title2.jpg&quot; title=&quot;turner-no-title2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-no-title2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-no-title2&quot; title=&quot;turner-no-title2&quot; /&gt;&lt;span&gt;turner-no-title2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-slave-ship.jpg&quot; title=&quot;turner-slave-ship&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-slave-ship.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-slave-ship&quot; title=&quot;turner-slave-ship&quot; /&gt;&lt;span&gt;turner-slave-ship&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-temple.jpg&quot; title=&quot;turner-temple&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-temple.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-temple&quot; title=&quot;turner-temple&quot; /&gt;&lt;span&gt;turner-temple&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/turner-venice.jpg&quot; title=&quot;turner-venice&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/turner-venice.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;turner-venice&quot; title=&quot;turner-venice&quot; /&gt;&lt;span&gt;turner-venice&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/zebra.jpg&quot; title=&quot;zebra&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/zebra.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;zebra&quot; title=&quot;zebra&quot; /&gt;&lt;span&gt;zebra&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/microorganism/art1.jpg&quot; title=&quot;art1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art1&quot; title=&quot;art1&quot; /&gt;&lt;span&gt;art1&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art2.jpg&quot; title=&quot;art2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art2&quot; title=&quot;art2&quot; /&gt;&lt;span&gt;art2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art3.jpg&quot; title=&quot;art3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art3&quot; title=&quot;art3&quot; /&gt;&lt;span&gt;art3&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art4.jpg&quot; title=&quot;art4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art4&quot; title=&quot;art4&quot; /&gt;&lt;span&gt;art4&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art5.jpg&quot; title=&quot;art5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art5&quot; title=&quot;art5&quot; /&gt;&lt;span&gt;art5&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art6.jpg&quot; title=&quot;art6&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art6.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art6&quot; title=&quot;art6&quot; /&gt;&lt;span&gt;art6&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art7.jpg&quot; title=&quot;art7&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art7.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art7&quot; title=&quot;art7&quot; /&gt;&lt;span&gt;art7&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art8.jpg&quot; title=&quot;art8&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art8.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art8&quot; title=&quot;art8&quot; /&gt;&lt;span&gt;art8&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art9.jpg&quot; title=&quot;art9&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art9.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art9&quot; title=&quot;art9&quot; /&gt;&lt;span&gt;art9&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 10 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/10/10/my-art/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/10/my-art/</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Microorganism Art</title>
-        <description>&lt;!-- 
+        <description>&lt;!--
 
 
 I am currently working writing and illustrating a children's book about the wonderful
@@ -79,7 +79,7 @@ world of cells! These are a few of my favorite drawings so far. I'm trying to
 find the style I like best so these are very rough ideas, but I hope you like them anyway.
 
 ![viruses](/assets/images/art1.jpg)
-*Inspired by viruses but in no way actually scientifically accurate* 
+*Inspired by viruses but in no way actually scientifically accurate*
 
 ![eukaryotes1](/assets/images/art2.jpg)
 *Eukaryotic cells done in kind of a Warhol style but not really*
@@ -103,16 +103,16 @@ find the style I like best so these are very rough ideas, but I hope you like th
 *Some protists, with varying degrees of accuracy*
 
 ![protists4](/assets/images/art7.jpg)
-*Protists, but kaleidoscopic* 
+*Protists, but kaleidoscopic*
  --&gt;
 </description>
         <pubDate>Sat, 15 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/09/15/my-art/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/15/my-art/</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>JMW Turner</title>
         <description>&lt;p&gt;In 19th century England, John Mallord William Turner was &lt;em&gt;the bomb.com&lt;/em&gt;
@@ -165,9 +165,9 @@ thing about his pal Turner’s art:&lt;/p&gt;
         <pubDate>Wed, 31 Jan 2018 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</guid>
-        
-        
+
+
       </item>
-    
+
   </channel>
 </rss>
