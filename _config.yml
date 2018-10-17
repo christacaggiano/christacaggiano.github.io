@@ -1,9 +1,7 @@
 # Site settings
 title: christacaggiano
 email: christacaggiano@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-Personal website of Christa Caggiano
-baseurl:  # the subpath of your site, e.g. /blog
+description: Personal website of Christa Caggiano
 url: "https://christacaggiano.github.io" # the base hostname & protocol for your site
 twitter_username: christacaggiano
 github_username:  christacaggiano

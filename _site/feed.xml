@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>christacaggiano</title>
+    <description>Personal website of Christa Caggiano
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Oct 2018 12:14:08 -0700</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2018 12:14:08 -0700</lastBuildDate>
+    <pubDate>Wed, 17 Oct 2018 12:26:48 -0700</pubDate>
+    <lastBuildDate>Wed, 17 Oct 2018 12:26:48 -0700</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
     
       <item>
@@ -46,10 +46,10 @@
         <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/10/15/python-logos/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/15/python-logos/</guid>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>My Art</title>
         <description>&lt;style&gt;
@@ -65,13 +65,13 @@
         <pubDate>Wed, 10 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/10/10/my-art/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/10/my-art/</guid>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Microorganism Art</title>
-        <description>&lt;!--
+        <description>&lt;!-- 
 
 
 I am currently working writing and illustrating a children's book about the wonderful
@@ -79,7 +79,7 @@ world of cells! These are a few of my favorite drawings so far. I'm trying to
 find the style I like best so these are very rough ideas, but I hope you like them anyway.
 
 ![viruses](/assets/images/art1.jpg)
-*Inspired by viruses but in no way actually scientifically accurate*
+*Inspired by viruses but in no way actually scientifically accurate* 
 
 ![eukaryotes1](/assets/images/art2.jpg)
 *Eukaryotic cells done in kind of a Warhol style but not really*
@@ -103,16 +103,16 @@ find the style I like best so these are very rough ideas, but I hope you like th
 *Some protists, with varying degrees of accuracy*
 
 ![protists4](/assets/images/art7.jpg)
-*Protists, but kaleidoscopic*
+*Protists, but kaleidoscopic* 
  --&gt;
 </description>
         <pubDate>Sat, 15 Sep 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/09/15/my-art/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/15/my-art/</guid>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>JMW Turner</title>
         <description>&lt;p&gt;In 19th century England, John Mallord William Turner was &lt;em&gt;the bomb.com&lt;/em&gt;
@@ -165,9 +165,9 @@ thing about his pal Turner’s art:&lt;/p&gt;
         <pubDate>Wed, 31 Jan 2018 00:00:00 -0800</pubDate>
         <link>http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</guid>
-
-
+        
+        
       </item>
-
+    
   </channel>
 </rss>

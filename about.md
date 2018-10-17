@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-
+<!--
 <a class="twitter-follow-button"
   href="https://www.instagram.com/christacaggiano/"
   data-show-count="true"
@@ -22,7 +22,7 @@ here's my twitter
   data-show-count="true"
   data-size="large">
 and if you're my mom, here's my pinterest
-</a>
+</a> -->
 
 Hi! I am a graduate student at [UCSF](https://www.ucsf.edu/) studying biomedical informatics. Before coming to UCSF, I studied at [Brandeis University](http://www.brandeis.edu/), where I majored in biological physics and art history.
 
