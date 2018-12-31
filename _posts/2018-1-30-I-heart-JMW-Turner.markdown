@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "JMW Turner"
+title:  "Turner Inspired Landscapes"
 date:   2018-1-31
-description: "tl;dr about Turner, and my art inspired by Turner but isn't as good"
-preview: "/assets/images/turner-no-title.jpg"
-
+preview: "/assets/images/turner-square.jpg"
 ---
 
 In 19th century England, John Mallord William Turner was *the bomb.com*

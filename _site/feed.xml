@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>christacaggiano</title>
-    <description>Personal website of Christa Caggiano
-</description>
+    <title></title>
+    <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Oct 2018 12:26:48 -0700</pubDate>
-    <lastBuildDate>Wed, 17 Oct 2018 12:26:48 -0700</lastBuildDate>
+    <pubDate>Sun, 30 Dec 2018 20:58:18 -0500</pubDate>
+    <lastBuildDate>Sun, 30 Dec 2018 20:58:18 -0500</lastBuildDate>
     <generator>Jekyll v3.8.4</generator>
+    
+      <item>
+        <title>Teeshirt Designs</title>
+        <description>&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Dec 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2018/12/30/teeshirts/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/30/teeshirts/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Python Logos</title>
@@ -18,32 +36,17 @@
 
 &lt;p&gt;So, in the spirit of my lame, science-themed art, I made some cool Python logos and Python art over the years.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/python3.png&quot; alt=&quot;pythonista&quot; /&gt;&lt;/p&gt;
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/koi.jpg&quot; alt=&quot;koi&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/snake.jpg&quot; alt=&quot;snakes&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/flamingo.jpg&quot; alt=&quot;flamingo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/giraffe.jpg&quot; alt=&quot;giraffe&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/zebra.jpg&quot; alt=&quot;zebra&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/tiedye.jpg&quot; alt=&quot;tiedye&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/tiedye2.jpg&quot; alt=&quot;tiedye2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And finally, some completely unrelated Hack the Planet designs, inspired by the seminal 1995 &lt;a href=&quot;https://www.imdb.com/title/tt0113243/&quot;&gt;Hackers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/draft5.png&quot; alt=&quot;htp&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/draft6.png&quot; alt=&quot;htp1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/draft4.png&quot; alt=&quot;htp2&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/python-logos/flamingo.jpg&quot; title=&quot;flamingo&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/flamingo.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;flamingo&quot; title=&quot;flamingo&quot; /&gt;&lt;span&gt;flamingo&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/giraffe.jpg&quot; title=&quot;giraffe&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/giraffe.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;giraffe&quot; title=&quot;giraffe&quot; /&gt;&lt;span&gt;giraffe&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/koi.jpg&quot; title=&quot;koi&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/koi.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;koi&quot; title=&quot;koi&quot; /&gt;&lt;span&gt;koi&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/snake.jpg&quot; title=&quot;snake&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/snake.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;snake&quot; title=&quot;snake&quot; /&gt;&lt;span&gt;snake&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/tiedye.jpg&quot; title=&quot;tiedye&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/tiedye.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye&quot; title=&quot;tiedye&quot; /&gt;&lt;span&gt;tiedye&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/tiedye2.jpg&quot; title=&quot;tiedye2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/tiedye2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye2&quot; title=&quot;tiedye2&quot; /&gt;&lt;span&gt;tiedye2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/zebra.jpg&quot; title=&quot;zebra&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/zebra.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;zebra&quot; title=&quot;zebra&quot; /&gt;&lt;span&gt;zebra&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/2018/10/15/python-logos/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/15/python-logos/</guid>
         
@@ -51,7 +54,7 @@
       </item>
     
       <item>
-        <title>My Art</title>
+        <title>Microorganism Art</title>
         <description>&lt;style&gt;
     .image-gallery {overflow: auto; margin-left: -1%!important;}
     .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
@@ -59,62 +62,18 @@
     .image-gallery a img {width: 100%; display: block;}
 &lt;/style&gt;
 
-&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/microorganism/art1.jpg&quot; title=&quot;art1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art1.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art1&quot; title=&quot;art1&quot; /&gt;&lt;span&gt;art1&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art2.jpg&quot; title=&quot;art2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art2&quot; title=&quot;art2&quot; /&gt;&lt;span&gt;art2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art3.jpg&quot; title=&quot;art3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art3.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art3&quot; title=&quot;art3&quot; /&gt;&lt;span&gt;art3&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art4.jpg&quot; title=&quot;art4&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art4.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art4&quot; title=&quot;art4&quot; /&gt;&lt;span&gt;art4&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art5.jpg&quot; title=&quot;art5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art5.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art5&quot; title=&quot;art5&quot; /&gt;&lt;span&gt;art5&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art6.jpg&quot; title=&quot;art6&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art6.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art6&quot; title=&quot;art6&quot; /&gt;&lt;span&gt;art6&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art7.jpg&quot; title=&quot;art7&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art7.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art7&quot; title=&quot;art7&quot; /&gt;&lt;span&gt;art7&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art8.jpg&quot; title=&quot;art8&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art8.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art8&quot; title=&quot;art8&quot; /&gt;&lt;span&gt;art8&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/art9.jpg&quot; title=&quot;art9&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/art9.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;art9&quot; title=&quot;art9&quot; /&gt;&lt;span&gt;art9&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/microorganism/bacteria.jpg&quot; title=&quot;bacteria&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/bacteria.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;bacteria&quot; title=&quot;bacteria&quot; /&gt;&lt;span&gt;bacteria&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/eukaryote.jpg&quot; title=&quot;eukaryote&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/eukaryote.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;eukaryote&quot; title=&quot;eukaryote&quot; /&gt;&lt;span&gt;eukaryote&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/monochrome-eukaryotes.jpg&quot; title=&quot;monochrome-eukaryotes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/monochrome-eukaryotes.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;monochrome-eukaryotes&quot; title=&quot;monochrome-eukaryotes&quot; /&gt;&lt;span&gt;monochrome-eukaryotes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/multicolored-eukaryotes.jpg&quot; title=&quot;multicolored-eukaryotes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/multicolored-eukaryotes.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;multicolored-eukaryotes&quot; title=&quot;multicolored-eukaryotes&quot; /&gt;&lt;span&gt;multicolored-eukaryotes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/plant copy.jpg&quot; title=&quot;plant copy&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/plant copy.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plant copy&quot; title=&quot;plant copy&quot; /&gt;&lt;span&gt;plant copy&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/plant.jpg&quot; title=&quot;plant&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/plant.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plant&quot; title=&quot;plant&quot; /&gt;&lt;span&gt;plant&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/protists.jpg&quot; title=&quot;protists&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/protists.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;protists&quot; title=&quot;protists&quot; /&gt;&lt;span&gt;protists&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/rainbow-bacteria.jpg&quot; title=&quot;rainbow-bacteria&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/rainbow-bacteria.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;rainbow-bacteria&quot; title=&quot;rainbow-bacteria&quot; /&gt;&lt;span&gt;rainbow-bacteria&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/rainbow-protists.jpg&quot; title=&quot;rainbow-protists&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/rainbow-protists.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;rainbow-protists&quot; title=&quot;rainbow-protists&quot; /&gt;&lt;span&gt;rainbow-protists&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/receptors.jpg&quot; title=&quot;receptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/receptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;receptors&quot; title=&quot;receptors&quot; /&gt;&lt;span&gt;receptors&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 10 Oct 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/10/10/my-art/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/10/10/my-art/</guid>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/2018/10/10/microorganisms/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/10/microorganisms/</guid>
         
         
       </item>
     
       <item>
-        <title>Microorganism Art</title>
-        <description>&lt;!-- 
-
-
-I am currently working writing and illustrating a children's book about the wonderful
-world of cells! These are a few of my favorite drawings so far. I'm trying to
-find the style I like best so these are very rough ideas, but I hope you like them anyway.
-
-![viruses](/assets/images/art1.jpg)
-*Inspired by viruses but in no way actually scientifically accurate* 
-
-![eukaryotes1](/assets/images/art2.jpg)
-*Eukaryotic cells done in kind of a Warhol style but not really*
-
-![eukaryotes2](/assets/images/art4.jpg)
-*More eukaryotic cells*
-
-![eukaryotes3](/assets/images/art5.jpg)
-*Even more eukaryotes!!!*
-
-![plants](/assets/images/art3.jpg)
-*Plant cells inspired from [here](https://i.pinimg.com/originals/81/5a/8e/815a8e19fcd34feb9f2a578abb212795.jpg)*
-
-![protists1](/assets/images/art6.jpg)
-*Some sick diatoms! Image inspired from [here](https://assets.labroots.com/_public/_files/system/ck/trending/Diatom-008-2400_62cb1b5c485a08add9709693a05c40c7.jpg)*
-
-![protists2](/assets/images/art8.jpg)
-*I really like drawing diatoms they're so neat!*
-
-![protists3](/assets/images/art9.jpg)
-*Some protists, with varying degrees of accuracy*
-
-![protists4](/assets/images/art7.jpg)
-*Protists, but kaleidoscopic* 
- --&gt;
-</description>
-        <pubDate>Sat, 15 Sep 2018 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/2018/09/15/my-art/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/15/my-art/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>JMW Turner</title>
+        <title>Turner Inspired Landscapes</title>
         <description>&lt;p&gt;In 19th century England, John Mallord William Turner was &lt;em&gt;the bomb.com&lt;/em&gt;
 His work was synonymous with the ideals of a the newly emerging &lt;a href=&quot;https://www.youtube.com/watch?v=y2LelK5Kcoc&quot;&gt;Romantic movement&lt;/a&gt;-
 which idealized beauty, tranquility, nature, and a wistful look to the past - in a
@@ -162,7 +121,7 @@ thing about his pal Turner’s art:&lt;/p&gt;
 
 &lt;p&gt;[3] &lt;a href=&quot;https://www.academia.edu/11871542/_America_s_First_Public_Turner_How_Ruskin_sold_The_Slave_Ship_to_New_York._British_Art_Journal._Ed._Robin_Simon._Vol._X_no_3_Winter_Spring_2010_69-77&quot;&gt;Bonus- read my former art history professor’s very smart things about the journey of one Turner painting to America (also bonus points for this being Ruskin’s favorite Turner #merica)&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 31 Jan 2018 00:00:00 -0800</pubDate>
+        <pubDate>Wed, 31 Jan 2018 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</guid>
         
