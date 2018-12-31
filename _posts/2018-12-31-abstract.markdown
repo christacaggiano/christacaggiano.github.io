@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Abstract
+date:   2018-12-30
+description: "Abstract"
+preview: "/assets/images/gold-square.jpg"
+---
+
+{% include image-gallery.html folder="/assets/images/abstract" %}
