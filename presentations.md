@@ -21,3 +21,7 @@ permalink: /presentations/
 
 #### [Data Structures](https://aryaboudaie.com/)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTI7kel9gaU4b3X3ceCkPcdeXjQAGRmRwwwrBRUZYxcjeb3_UgQ0uSYwMt_CkNWjV4x0hI2MEnnpWYx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+### [Zaitlen lab Journal Club](https://www.pnas.org/content/72/1/143)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSioooUMGsmf5RGhsmbPFz_wnZ5brNAhK1G-BqTUl0FcJrZa_H3mBlaDxord5jw0jmt0AlbjRhu-7e-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
