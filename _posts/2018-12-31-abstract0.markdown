@@ -1,9 +1,0 @@
----
-layout: post
-title:  Bodies
-date:   2018-12-30
-description: "Bodies"
-preview: "/assets/images/bodies/body7-01.png"
----
----
-{% include image-gallery.html folder="/assets/images/bodies" %}
