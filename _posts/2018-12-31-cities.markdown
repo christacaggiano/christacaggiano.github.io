@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Cites
+date:   2018-12-30
+description: "Cities"
+preview: "/assets/images/boston.png"
+---
+
+{% include image-gallery.html folder="/assets/images/cities" %}
