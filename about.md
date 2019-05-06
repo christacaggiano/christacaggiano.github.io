@@ -3,7 +3,7 @@ layout: page
 permalink: /about/
 ---
 
-Hi! I am a graduate student at [UCSF](https://www.ucsf.edu/) studying biomedical informatics. Before coming to UCSF, I studied at [Brandeis University](http://www.brandeis.edu/), where I majored in biological physics and art history.
+Hi! I am a graduate student at [UCLA](https://bioinformatics.ucla.edu/) studying bioinformatics. Before coming to UCLA, I started my PhD at UCSF. Before that, I studied at [Brandeis University](http://www.brandeis.edu/), where I majored in biological physics and art history.
 
 At Brandeis, I worked in the [Rosbash lab](http://www.bio.brandeis.edu/rosbash-lab/) where I studied circadian rhythms. My honors thesis, entitled *Bioinformatic approaches to chromatin structure and RNA editing in Drosophila* can be found [here][1] if you're that kind of a nerd.  
 
