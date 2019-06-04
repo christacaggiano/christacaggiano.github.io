@@ -5,9 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Dec 2018 20:58:18 -0500</pubDate>
-    <lastBuildDate>Sun, 30 Dec 2018 20:58:18 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.4</generator>
+    <pubDate>Mon, 03 Jun 2019 20:09:54 -0700</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2019 20:09:54 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Teeshirt Designs</title>
@@ -18,12 +18,90 @@
     .image-gallery a img {width: 100%; display: block;}
 &lt;/style&gt;
 
-&lt;p class=&quot;image-gallery&quot;&gt;&lt;/p&gt;
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/logos/hack-blue.png&quot; title=&quot;hack-blue&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/logos/hack-blue.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;hack-blue&quot; title=&quot;hack-blue&quot; /&gt;&lt;span&gt;hack-blue&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/logos/hack-orange.png&quot; title=&quot;hack-orange&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/logos/hack-orange.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;hack-orange&quot; title=&quot;hack-orange&quot; /&gt;&lt;span&gt;hack-orange&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/logos/hack-red.png&quot; title=&quot;hack-red&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/logos/hack-red.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;hack-red&quot; title=&quot;hack-red&quot; /&gt;&lt;span&gt;hack-red&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/logos/pythonista.png&quot; title=&quot;pythonista&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/logos/pythonista.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;pythonista&quot; title=&quot;pythonista&quot; /&gt;&lt;span&gt;pythonista&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 30 Dec 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/12/30/teeshirts/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/12/30/teeshirts/</guid>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/01/03/teeshirts/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/03/teeshirts/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Landscapes</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/landscapes/halfcircle.png&quot; title=&quot;halfcircle&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/landscapes/halfcircle.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;halfcircle&quot; title=&quot;halfcircle&quot; /&gt;&lt;span&gt;halfcircle&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/landscapes/landscape.png&quot; title=&quot;landscape&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/landscapes/landscape.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;landscape&quot; title=&quot;landscape&quot; /&gt;&lt;span&gt;landscape&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/landscapes/plants.png&quot; title=&quot;plants&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/landscapes/plants.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plants&quot; title=&quot;plants&quot; /&gt;&lt;span&gt;plants&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/landscapes/whale-01.png&quot; title=&quot;whale-01&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/landscapes/whale-01.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;whale-01&quot; title=&quot;whale-01&quot; /&gt;&lt;span&gt;whale-01&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 02 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/01/02/Landscapes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/02/Landscapes/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Abstract</title>
+        <description>&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/abstract/blob-01.png&quot; title=&quot;blob-01&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/blob-01.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;blob-01&quot; title=&quot;blob-01&quot; /&gt;&lt;span&gt;blob-01&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/blue.png&quot; title=&quot;blue&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/blue.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;blue&quot; title=&quot;blue&quot; /&gt;&lt;span&gt;blue&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/curve.jpg&quot; title=&quot;curve&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/curve.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;curve&quot; title=&quot;curve&quot; /&gt;&lt;span&gt;curve&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/fireworks.jpg&quot; title=&quot;fireworks&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/fireworks.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;fireworks&quot; title=&quot;fireworks&quot; /&gt;&lt;span&gt;fireworks&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/gold.jpg&quot; title=&quot;gold&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/gold.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;gold&quot; title=&quot;gold&quot; /&gt;&lt;span&gt;gold&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/leaf.jpg&quot; title=&quot;leaf&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/leaf.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;leaf&quot; title=&quot;leaf&quot; /&gt;&lt;span&gt;leaf&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/lines.jpg&quot; title=&quot;lines&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/lines.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;lines&quot; title=&quot;lines&quot; /&gt;&lt;span&gt;lines&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/lines.png&quot; title=&quot;lines&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/lines.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;lines&quot; title=&quot;lines&quot; /&gt;&lt;span&gt;lines&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/shapes.png&quot; title=&quot;shapes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/shapes.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;shapes&quot; title=&quot;shapes&quot; /&gt;&lt;span&gt;shapes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/shapes1.png&quot; title=&quot;shapes1&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/shapes1.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;shapes1&quot; title=&quot;shapes1&quot; /&gt;&lt;span&gt;shapes1&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/abstract/water.jpg&quot; title=&quot;water&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/abstract/water.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;water&quot; title=&quot;water&quot; /&gt;&lt;span&gt;water&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2019/01/01/abstract/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/01/01/abstract/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cites</title>
+        <description>&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/cities/boston.png&quot; title=&quot;boston&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/cities/boston.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;boston&quot; title=&quot;boston&quot; /&gt;&lt;span&gt;boston&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/cities/buildings.png&quot; title=&quot;buildings&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/cities/buildings.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;buildings&quot; title=&quot;buildings&quot; /&gt;&lt;span&gt;buildings&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/cities/san-fran.png&quot; title=&quot;san-fran&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/cities/san-fran.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;san-fran&quot; title=&quot;san-fran&quot; /&gt;&lt;span&gt;san-fran&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018/12/30/cities/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/30/cities/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bodies</title>
+        <description>&lt;hr /&gt;
+&lt;style&gt;
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+    .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery a img {width: 100%; display: block;}
+&lt;/style&gt;
+
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/bodies/body.png&quot; title=&quot;body&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body&quot; title=&quot;body&quot; /&gt;&lt;span&gt;body&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/bodies/body10.png&quot; title=&quot;body10&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body10.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body10&quot; title=&quot;body10&quot; /&gt;&lt;span&gt;body10&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/bodies/body2.png&quot; title=&quot;body2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body2.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body2&quot; title=&quot;body2&quot; /&gt;&lt;span&gt;body2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/bodies/body3.png&quot; title=&quot;body3&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body3.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body3&quot; title=&quot;body3&quot; /&gt;&lt;span&gt;body3&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/bodies/body5.png&quot; title=&quot;body5&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body5.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body5&quot; title=&quot;body5&quot; /&gt;&lt;span&gt;body5&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/bodies/body7-01.png&quot; title=&quot;body7-01&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body7-01.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body7-01&quot; title=&quot;body7-01&quot; /&gt;&lt;span&gt;body7-01&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/bodies/body8a.png&quot; title=&quot;body8a&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/bodies/body8a.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;body8a&quot; title=&quot;body8a&quot; /&gt;&lt;span&gt;body8a&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 30 Dec 2018 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/2018/12/30/bodies/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/12/30/bodies/</guid>
         
         
       </item>
@@ -46,7 +124,7 @@
 &lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/python-logos/flamingo.jpg&quot; title=&quot;flamingo&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/flamingo.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;flamingo&quot; title=&quot;flamingo&quot; /&gt;&lt;span&gt;flamingo&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/giraffe.jpg&quot; title=&quot;giraffe&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/giraffe.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;giraffe&quot; title=&quot;giraffe&quot; /&gt;&lt;span&gt;giraffe&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/koi.jpg&quot; title=&quot;koi&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/koi.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;koi&quot; title=&quot;koi&quot; /&gt;&lt;span&gt;koi&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/snake.jpg&quot; title=&quot;snake&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/snake.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;snake&quot; title=&quot;snake&quot; /&gt;&lt;span&gt;snake&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/tiedye.jpg&quot; title=&quot;tiedye&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/tiedye.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye&quot; title=&quot;tiedye&quot; /&gt;&lt;span&gt;tiedye&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/tiedye2.jpg&quot; title=&quot;tiedye2&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/tiedye2.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;tiedye2&quot; title=&quot;tiedye2&quot; /&gt;&lt;span&gt;tiedye2&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/python-logos/zebra.jpg&quot; title=&quot;zebra&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/python-logos/zebra.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;zebra&quot; title=&quot;zebra&quot; /&gt;&lt;span&gt;zebra&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 15 Oct 2018 00:00:00 -0400</pubDate>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/10/15/python-logos/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/15/python-logos/</guid>
         
@@ -62,68 +140,12 @@
     .image-gallery a img {width: 100%; display: block;}
 &lt;/style&gt;
 
-&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/microorganism/bacteria.jpg&quot; title=&quot;bacteria&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/bacteria.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;bacteria&quot; title=&quot;bacteria&quot; /&gt;&lt;span&gt;bacteria&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/eukaryote.jpg&quot; title=&quot;eukaryote&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/eukaryote.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;eukaryote&quot; title=&quot;eukaryote&quot; /&gt;&lt;span&gt;eukaryote&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/monochrome-eukaryotes.jpg&quot; title=&quot;monochrome-eukaryotes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/monochrome-eukaryotes.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;monochrome-eukaryotes&quot; title=&quot;monochrome-eukaryotes&quot; /&gt;&lt;span&gt;monochrome-eukaryotes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/multicolored-eukaryotes.jpg&quot; title=&quot;multicolored-eukaryotes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/multicolored-eukaryotes.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;multicolored-eukaryotes&quot; title=&quot;multicolored-eukaryotes&quot; /&gt;&lt;span&gt;multicolored-eukaryotes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/plant copy.jpg&quot; title=&quot;plant copy&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/plant copy.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plant copy&quot; title=&quot;plant copy&quot; /&gt;&lt;span&gt;plant copy&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/plant.jpg&quot; title=&quot;plant&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/plant.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plant&quot; title=&quot;plant&quot; /&gt;&lt;span&gt;plant&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/protists.jpg&quot; title=&quot;protists&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/protists.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;protists&quot; title=&quot;protists&quot; /&gt;&lt;span&gt;protists&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/rainbow-bacteria.jpg&quot; title=&quot;rainbow-bacteria&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/rainbow-bacteria.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;rainbow-bacteria&quot; title=&quot;rainbow-bacteria&quot; /&gt;&lt;span&gt;rainbow-bacteria&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/rainbow-protists.jpg&quot; title=&quot;rainbow-protists&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/rainbow-protists.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;rainbow-protists&quot; title=&quot;rainbow-protists&quot; /&gt;&lt;span&gt;rainbow-protists&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/receptors.jpg&quot; title=&quot;receptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/receptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;receptors&quot; title=&quot;receptors&quot; /&gt;&lt;span&gt;receptors&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;image-gallery&quot;&gt;&lt;a href=&quot;/assets/images/microorganism/animal-cells.png&quot; title=&quot;animal-cells&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/animal-cells.png&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;animal-cells&quot; title=&quot;animal-cells&quot; /&gt;&lt;span&gt;animal-cells&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/bacteria.jpg&quot; title=&quot;bacteria&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/bacteria.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;bacteria&quot; title=&quot;bacteria&quot; /&gt;&lt;span&gt;bacteria&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/eukaryote.jpg&quot; title=&quot;eukaryote&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/eukaryote.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;eukaryote&quot; title=&quot;eukaryote&quot; /&gt;&lt;span&gt;eukaryote&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/monochrome-eukaryotes.jpg&quot; title=&quot;monochrome-eukaryotes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/monochrome-eukaryotes.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;monochrome-eukaryotes&quot; title=&quot;monochrome-eukaryotes&quot; /&gt;&lt;span&gt;monochrome-eukaryotes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/multicolored-eukaryotes.jpg&quot; title=&quot;multicolored-eukaryotes&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/multicolored-eukaryotes.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;multicolored-eukaryotes&quot; title=&quot;multicolored-eukaryotes&quot; /&gt;&lt;span&gt;multicolored-eukaryotes&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/plant copy.jpg&quot; title=&quot;plant copy&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/plant copy.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plant copy&quot; title=&quot;plant copy&quot; /&gt;&lt;span&gt;plant copy&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/plant.jpg&quot; title=&quot;plant&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/plant.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;plant&quot; title=&quot;plant&quot; /&gt;&lt;span&gt;plant&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/protists.jpg&quot; title=&quot;protists&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/protists.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;protists&quot; title=&quot;protists&quot; /&gt;&lt;span&gt;protists&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/rainbow-bacteria.jpg&quot; title=&quot;rainbow-bacteria&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/rainbow-bacteria.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;rainbow-bacteria&quot; title=&quot;rainbow-bacteria&quot; /&gt;&lt;span&gt;rainbow-bacteria&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/rainbow-protists.jpg&quot; title=&quot;rainbow-protists&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/rainbow-protists.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;rainbow-protists&quot; title=&quot;rainbow-protists&quot; /&gt;&lt;span&gt;rainbow-protists&lt;/span&gt;&lt;/a&gt;&lt;a href=&quot;/assets/images/microorganism/receptors.jpg&quot; title=&quot;receptors&quot;&gt;&lt;img src=&quot;//images.weserv.nl/?url=localhost:4000/assets/images/microorganism/receptors.jpg&amp;amp;w=300&amp;amp;h=300&amp;amp;output=jpg&amp;amp;q=50&amp;amp;t=square&quot; alt=&quot;receptors&quot; title=&quot;receptors&quot; /&gt;&lt;span&gt;receptors&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Wed, 10 Oct 2018 00:00:00 -0400</pubDate>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/2018/10/10/microorganisms/</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/10/microorganisms/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Turner Inspired Landscapes</title>
-        <description>&lt;p&gt;In 19th century England, John Mallord William Turner was &lt;em&gt;the bomb.com&lt;/em&gt;
-His work was synonymous with the ideals of a the newly emerging &lt;a href=&quot;https://www.youtube.com/watch?v=y2LelK5Kcoc&quot;&gt;Romantic movement&lt;/a&gt;-
-which idealized beauty, tranquility, nature, and a wistful look to the past - in a
-nation of people that was otherwise pretty busy doing things like &lt;a href=&quot;https://www.youtube.com/watch?v=ADQCeC0tF0o&quot;&gt;ruthlessly dragging its colonies into the industrial revolution&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Turner embodied this zeitgeist (such an apt word to describe England at the time that
-the romantics literally &lt;a href=&quot;https://en.wikipedia.org/wiki/Zeitgeist&quot;&gt;coined it&lt;/a&gt; ) he was a rockstar of
-sorts. Showing at all the fancy art shows of the time, the famous art critic &lt;a href=&quot;http://www.tate.org.uk/art/artists/john-ruskin-465&quot;&gt;John Ruskin&lt;/a&gt; wrote this /completely normal/
-thing about his pal Turner’s art:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Turner’s sense of beauty, was perfect … only that of Keats and Tennyson being comparable with it. And Turner’s love of truth was as stern and patient as Dante’s.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I sort of agree with Ruskin on this- Turner has this sublime way of capturing light that communicates a breathtaking sense of beauty. Today, landscape paintings are looked down upon (and maybe some for good reason), but studying Turner has made me appreciate finding beauty in ordinary scenes. Turner also eventually got pretty crazy and abstract. He was abstract before Picasso and friends made it cool. I think it’s so rad to take visual ideas about the natural world and make them abstract. It distills his feelings about the world into a convenient little emotional bundle. For me, this captures a little bit of what it means to be human. We all relate to our environments in complex ways and the ability to be social and share our emotions. No other species has been able to do this.&lt;/p&gt;
-
-&lt;p&gt;Here are some of my favorite Turners, and a few paintings I did that were inspired by Turner, but in no way as good.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/turner-slave-ship.jpg&quot; alt=&quot;Slave Ship&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;J.M.W. Turner, The Slave Ship (1840). Oil on canvas. 90.8 × 122.6 cm, Museum of Fine Arts, Boston.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/turner-temple.jpg&quot; alt=&quot;Temples of Paestum&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;J.M.W. Turner, Temples of Paestum (1826–7). Watercolour, gouache, and pen and ink. 95 x 180 mm, Tate Museum, London.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/turner-venice.jpg&quot; alt=&quot;Venice, Moonrise&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;J.M.W. Turner, Venice, Moonrise (1840). Watercolour on paper. 220 x 319 mm, Tate Museum, London.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/turner-light-color.jpg&quot; alt=&quot;Light and color&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;J.M.W. Turner, Light and Colour (Goethe’s Theory) – The Morning after the Deluge – Moses Writing the Book of Genesis (1843). Oil on canvas. 78.5 × 78.5 cm, Tate Museum, London.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s my stuff:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/turner-no-title.jpg&quot; alt=&quot;no title&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/turner-no-title2.jpg&quot; alt=&quot;no title&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;notes&quot;&gt;Notes&lt;/h4&gt;
-&lt;p&gt;[1] &lt;a href=&quot;http://www.tate.org.uk/art/research-publications/jmw-turner/joseph-mallord-william-turner-1775-1851-r1141041&quot;&gt;The Tate has a really nice website with Turner’s art on it&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[2] &lt;a href=&quot;http://www.imdb.com/title/tt2473794/&quot;&gt;Turner is such a thing that some pretentious people made a movie about him. Watch at your own risk&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;[3] &lt;a href=&quot;https://www.academia.edu/11871542/_America_s_First_Public_Turner_How_Ruskin_sold_The_Slave_Ship_to_New_York._British_Art_Journal._Ed._Robin_Simon._Vol._X_no_3_Winter_Spring_2010_69-77&quot;&gt;Bonus- read my former art history professor’s very smart things about the journey of one Turner painting to America (also bonus points for this being Ruskin’s favorite Turner #merica)&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 31 Jan 2018 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/01/31/I-heart-JMW-Turner/</guid>
         
         
       </item>
