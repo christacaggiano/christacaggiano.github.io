@@ -3,10 +3,16 @@ layout: page
 permalink: /presentations/
 ---
 
-#### [Northern California Computational Biology Student Seminar](https://nccb.io/)
+#### [Probabilistic Modeling in Genomics](https://probgen2019.sciencesconf.org/), Aussois, France, October 2019
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk6qb2Go65dnF-N8KVPm3kUyOrcie-zVTpjYfh987GvgUTCWy5U2r8zboZBXslKtPXT8jN47WLGWQ9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<!--
+#### [UCLA Neurogenetics Training Grant](https://www.uclahealth.org/neurology/neurogenetics), Los Angeles, November 2019
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFgtdSeM3WNdqyg6M9QVrLd6uhiWSZIFjQqa0TAyvxdf1RrydQzpOeoYywYYhVHMjys3f-jqQ7YCpu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
+
+#### [Northern California Computational Biology Student Seminar](https://nccb.io/), San Francisco, October 2018
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvLA2Clq3AVQjL_c1YLnsF1qdvp9HlBPy3zhZQV_xjQr9ybnok2pumCKIqfV13CXJQD8SgglAJakiI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-
+<!--
 #### [IPQB Journal Club 2017](https://www.biorxiv.org/content/biorxiv/early/2017/02/03/047035.full.pdf)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQh3QBO5pU0hC5hBbOfUWcJXDmXe8zVeqZZEzbx7Gvi-pKZSPuxVtf1tjuZYSzJzzIB2ZqipN0v7KVR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -24,4 +30,4 @@ permalink: /presentations/
 
 
 ### [Zaitlen lab Journal Club](https://www.pnas.org/content/72/1/143)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSioooUMGsmf5RGhsmbPFz_wnZ5brNAhK1G-BqTUl0FcJrZa_H3mBlaDxord5jw0jmt0AlbjRhu-7e-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSioooUMGsmf5RGhsmbPFz_wnZ5brNAhK1G-BqTUl0FcJrZa_H3mBlaDxord5jw0jmt0AlbjRhu-7e-/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
