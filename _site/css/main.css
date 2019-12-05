@@ -613,7 +613,8 @@ img {
  * override column size for mobile
  */
 @media (max-width: 40rem) {
-  .row .column.column-33, .row .column.column-34 {
+  .row .column.column-33,
+  .row .column.column-34 {
     flex: 0 0 100%;
     max-width: 100%; } }
 /**
@@ -627,7 +628,8 @@ img {
 .contact-list,
 .social-media-list {
   list-style: none;
-  margin-left: 0; }
+  margin-left: 0;
+  text-align: center; }
 
 /**
  * Misc
