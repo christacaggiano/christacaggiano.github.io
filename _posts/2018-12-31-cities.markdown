@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cites
+title:  Cities
 date:   2018-12-30
 description: "Cities"
 preview: "/assets/images/boston.png"
