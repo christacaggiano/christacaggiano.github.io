@@ -2,6 +2,7 @@
 url: "https://christacaggiano.github.io" # the base hostname & protocol for your site
 twitter_username: christacaggiano
 github_username:  christacaggiano
+email: christa@g.ucla.edu
 
 # Build settings
 markdown: kramdown
@@ -11,3 +12,5 @@ plugins:
   - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
+
+future: true

@@ -10,6 +10,7 @@
     </div> -->
 
     <div class="column">
+
       <ul class="social-media-list">
         {% if site.github_username %}
         <li>
@@ -20,6 +21,11 @@
               </svg>
             </span>
             <span class="username">{{ site.github_username }}</span>
+          </a>
+        {% endif %}
+        {% if site.email %}
+          <a href="mailto:{{ site.email }}">
+            {{ site.email }}
           </a>
         {% endif %}
         {% if site.twitter_username %}
