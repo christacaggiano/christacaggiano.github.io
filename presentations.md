@@ -3,6 +3,10 @@ layout: page
 permalink: /presentations/
 ---
 
+#### [UCLA QBC Fall Retreat](https://qcb.ucla.edu/), Los Angeles, California, October 2021
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXdTitROtk95podCck1-kTqOakwfRDtrcN5hOt7f-K9dXT2Olr0QxqwXkn5LL2yi16XK-xADmAVfXQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 #### [Probabilistic Modeling in Genomics](https://probgen2019.sciencesconf.org/), Aussois, France, October 2019
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk6qb2Go65dnF-N8KVPm3kUyOrcie-zVTpjYfh987GvgUTCWy5U2r8zboZBXslKtPXT8jN47WLGWQ9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!--
