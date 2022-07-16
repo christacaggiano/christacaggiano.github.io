@@ -5,7 +5,9 @@ permalink: /research/
 
 ##### Fine-scale population health in Los Angeles
 
-We use the [UCLA ATLAS Initiative](https://www.uclahealth.org/precision-health/atlas) biobank to look at fine-scale populations that visit the UCLA hospital. Fine-scale populations were found using an unsupervised machine learning technique on genetic data. We then examined what diseases these populations were diagnosed with, what specialities they visited, and where in Los Angeles they found care. Our goal in doing this research was to empower clinical care workers and researchers to understand potential health disparities that exist in Los Angeles, especially in understudied populations.
+We use the [UCLA ATLAS Initiative](https://www.uclahealth.org/precision-health/atlas) biobank to look at patient clusters that visit the UCLA hospital. Clusters were found using an unsupervised machine learning technique on genetic data. Many of the clusters represent significantly understudied populations in LA, like Armenians, Iranians, or Gujaratis. We then examined what diseases these clusters were diagnosed with, what specialities they visited, and where in Los Angeles they found care. Our goal in doing this research was to empower clinical care workers and researchers to understand potential health disparities that exist in Los Angeles, especially in diverse groups.
+
+Full preprint [here](https://www.medrxiv.org/content/10.1101/2022.07.12.22277520v1)
 
 
 ##### Biomarkers in ALS
