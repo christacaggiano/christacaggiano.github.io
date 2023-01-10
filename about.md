@@ -10,7 +10,7 @@ My scientific interests now fall broadly in neurogenetics and applying advanced 
 
 Outside of science, I like art and design. My favorite museums include the [Isabella Stewart Gardner](https://www.gardnermuseum.org/) in Boston, [the RISD Museum](https://risdmuseum.org/) in Providence, the [Brooklyn Museum](https://www.brooklynmuseum.org/) in NYC, and the [Asian Art Museum](http://www.asianart.org/) in San Francisco.
 
-<mark>As of July 2022, I am looking for postdoctoral fellowships. If you come across this page and think our research interests could be a good fit, send me an email!</mark>
+<mark>As of 2023, I am looking for postdoctoral fellowships. If you come across this page and think our research interests could be a good fit, send me an email!</mark>
 
 <style>
 mark{
