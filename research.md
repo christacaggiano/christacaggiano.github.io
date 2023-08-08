@@ -7,7 +7,7 @@ permalink: /research/
 
 We use the [UCLA ATLAS Initiative](https://www.uclahealth.org/precision-health/atlas) biobank to look at patient clusters that visit the UCLA hospital. Clusters were found using an unsupervised machine learning technique on genetic data. Many of the clusters represent significantly understudied populations in LA, like Armenians, Iranians, or Gujaratis. We then examined what diseases these clusters were diagnosed with, what specialities they visited, and where in Los Angeles they found care. Our goal in doing this research was to empower clinical care workers and researchers to understand potential health disparities that exist in Los Angeles, especially in diverse groups.
 
-Full preprint [here](https://www.medrxiv.org/content/10.1101/2022.07.12.22277520v1)
+Full paper [here](https://drive.google.com/file/d/184Jh8EtIyuW-t7yNph84pR63tKwz4C8X/view?usp=sharing)
 
 
 ##### Biomarkers in ALS
@@ -16,7 +16,7 @@ Currently, I am developing algorithms for discovering biomarkers in ALS. Most ca
 
 To solve this problem, we have developed an algorithm, [CelFiE](https://github.com/christacaggiano/celfie), that estimates the tissue of origin of DNA that ends up circulating in the blood (cfDNA). We have found that CelFiE estimates a higher proportion of cfDNA coming from skeletal muscle in ALS patients, consistent with what we would expect of their disease. We're hoping to explore this result further in future work.
 
-More details about our method can be found in our [paper](https://www.nature.com/articles/s41467-021-22901-x).
+More details about our method can be found in our [paper](https://drive.google.com/file/d/1ClW1fmJ9CNOSDp-P8fT-N0hDEmGprTxA/view?usp=sharing).
 
 
 ![CFDNA](/assets/images/cfdna.png)
