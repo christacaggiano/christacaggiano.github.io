@@ -3,10 +3,10 @@ layout: page
 permalink: /presentations/
 ---
 
-#### [Thesis Defense 2023](https://qcb.ucla.edu/), Los Angeles, California, June 2023
+#### [Thesis Defense 2023](https://escholarship.org/uc/item/5sb6b1zf), Los Angeles, California, June 2023
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1HY0SjSlfbBhok66UjRdgqew4wRWe_kFiZtwQM4-DcjqhK9rwBEtAh1Kbv5SfYEOddbmueAbuL2_r/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-#### [American Society of Human Genomics 2022], Los Angeles, California, October 2022
+#### [American Society of Human Genomics 2022](https://www.ashg.org/), Los Angeles, California, October 2022
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqSZ1pPJEx02GGnU24AJO6BI-fvLjc6VbdIN-iDZrsU44Bs502iMfeggExqOD3b6_MTRAiX-joBlZV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <!-- 
