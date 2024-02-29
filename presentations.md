@@ -3,19 +3,26 @@ layout: page
 permalink: /presentations/
 ---
 
+#### [Thesis Defense 2023](https://qcb.ucla.edu/), Los Angeles, California, June 2023
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR1HY0SjSlfbBhok66UjRdgqew4wRWe_kFiZtwQM4-DcjqhK9rwBEtAh1Kbv5SfYEOddbmueAbuL2_r/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+#### [American Society of Human Genomics 2022], Los Angeles, California, October 2022
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQqSZ1pPJEx02GGnU24AJO6BI-fvLjc6VbdIN-iDZrsU44Bs502iMfeggExqOD3b6_MTRAiX-joBlZV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<!-- 
 #### [UCLA QBC Fall Retreat](https://qcb.ucla.edu/), Los Angeles, California, October 2021
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXdTitROtk95podCck1-kTqOakwfRDtrcN5hOt7f-K9dXT2Olr0QxqwXkn5LL2yi16XK-xADmAVfXQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+ -->
 
 #### [Probabilistic Modeling in Genomics](https://probgen2019.sciencesconf.org/), Aussois, France, October 2019
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRk6qb2Go65dnF-N8KVPm3kUyOrcie-zVTpjYfh987GvgUTCWy5U2r8zboZBXslKtPXT8jN47WLGWQ9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!--
 #### [UCLA Neurogenetics Training Grant](https://www.uclahealth.org/neurology/neurogenetics), Los Angeles, November 2019
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTFgtdSeM3WNdqyg6M9QVrLd6uhiWSZIFjQqa0TAyvxdf1RrydQzpOeoYywYYhVHMjys3f-jqQ7YCpu/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> -->
-
+<!-- 
 #### [Northern California Computational Biology Student Seminar](https://nccb.io/), San Francisco, October 2018
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvLA2Clq3AVQjL_c1YLnsF1qdvp9HlBPy3zhZQV_xjQr9ybnok2pumCKIqfV13CXJQD8SgglAJakiI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
+ -->
 <!--
 #### [IPQB Journal Club 2017](https://www.biorxiv.org/content/biorxiv/early/2017/02/03/047035.full.pdf)
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQh3QBO5pU0hC5hBbOfUWcJXDmXe8zVeqZZEzbx7Gvi-pKZSPuxVtf1tjuZYSzJzzIB2ZqipN0v7KVR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="800" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

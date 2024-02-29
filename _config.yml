@@ -1,8 +1,8 @@
 # Site settings
-url: "https://christacaggiano.github.io" # the base hostname & protocol for your site
+url: "https://www.christa.science/" # the base hostname & protocol for your site
 twitter_username: christacaggiano
 github_username:  christacaggiano
-email: christa@g.ucla.edu
+email: christacaggiano@gmail.com
 
 # Build settings
 markdown: kramdown
