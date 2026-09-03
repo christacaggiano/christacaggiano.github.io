@@ -7,10 +7,18 @@
 
 .site-header {
   text-align: center;
+  padding-top: 1.5rem;
+}
+
+.site-title img {
+  width: 60%;
+  max-width: 340px;
+  height: auto;
 }
 
 .navbar {
   display: block;
+  margin-top: 3rem;
 }
 
 .nav-item {
@@ -54,6 +62,41 @@
   text-align: center;
 }
 
+.social-media-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.6rem 2.4rem;
+
+  li { margin: 0; }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: $grey-color;
+    font-size: 1.4rem;
+    letter-spacing: 0.02em;
+    transition: color 0.15s ease;
+
+    svg path { transition: fill 0.15s ease; }
+
+    &:hover {
+      color: #bf65e5;
+      svg path { fill: #bf65e5; }
+    }
+  }
+
+  .icon > svg { vertical-align: middle; }
+}
+
+.footer-heading {
+  text-align: center;
+  font-size: 1.7rem;
+  color: $color-primary;
+  margin-bottom: 1.6rem;
+}
+
 /**
  * Misc
  */
@@ -70,3 +113,72 @@
 a:hover {
   color: #bf65e5;
 }
+
+
+/**
+ * CV / resume page
+ */
+.cv-downloads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin: 0.5rem 0 3.5rem;
+}
+
+.cv-downloads .button { margin-bottom: 0; }
+
+.cv-downloads .button:hover,
+.cv-downloads .button:focus {
+  background-color: #bf65e5;
+  border-color: #bf65e5;
+  color: #fff;
+}
+
+.cv-downloads .button.button-outline:hover,
+.cv-downloads .button.button-outline:focus {
+  background-color: transparent;
+  border-color: #bf65e5;
+  color: #bf65e5;
+}
+
+.cv-section { margin-bottom: 3rem; }
+
+.cv-section h6 {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 1.3rem;
+  color: $grey-color;
+  border-bottom: 1px solid $grey-color-light;
+  padding-bottom: 0.6rem;
+  margin-bottom: 1.6rem;
+}
+
+.cv-entry {
+  display: flex;
+  gap: 1.6rem;
+  margin-bottom: 1.4rem;
+}
+
+.cv-year {
+  flex: 0 0 8.5rem;
+  color: $grey-color;
+  font-family: 'Space Mono', monospace;
+  font-size: 1.3rem;
+  padding-top: 0.3rem;
+}
+
+.cv-detail { flex: 1; }
+.cv-detail .role { font-weight: 600; }
+.cv-detail .sub { color: $grey-color; font-size: 1.45rem; }
+
+@media (max-width: 40rem) {
+  .cv-entry { flex-direction: column; gap: 0.2rem; }
+  .cv-year { flex-basis: auto; padding-top: 0; }
+}
+
+
+/**
+ * Publications: first- or last-author highlight
+ */
+.pub-me { color: $color-primary; }

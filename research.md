@@ -3,22 +3,14 @@ layout: page
 permalink: /research/
 ---
 
-##### Fine-scale population health in Los Angeles
+##### Founder and fine-scale populations
 
-We use the [UCLA ATLAS Initiative](https://www.uclahealth.org/precision-health/atlas) biobank to look at patient clusters that visit the UCLA hospital. Clusters were found using an unsupervised machine learning technique on genetic data. Many of the clusters represent significantly understudied populations in LA, like Armenians, Iranians, or Gujaratis. We then examined what diseases these clusters were diagnosed with, what specialities they visited, and where in Los Angeles they found care. Our goal in doing this research was to empower clinical care workers and researchers to understand potential health disparities that exist in Los Angeles, especially in diverse groups.
+Global biobanks are increasingly powered by populations shaped by shared ancestry, founder effects, and recent demographic history. I study how this fine-scale structure influences disease risk and genomic discovery, and how to translate it responsibly into research and care. This work spans method development for multi-ancestry analysis and the ethics of how we describe and study human diversity.
 
-Full paper [here](https://drive.google.com/file/d/184Jh8EtIyuW-t7yNph84pR63tKwz4C8X/view?usp=sharing)
+##### Identity-by-descent and health in Los Angeles
 
+Using the UCLA ATLAS biobank, I used identity-by-descent to identify fine-scale patient communities in the UCLA health system, including groups that are significantly understudied in genomics such as Armenian, Iranian, and Gujarati Angelenos. Linking these clusters to electronic health records, we mapped the diagnoses, specialty care, and geography of health across Los Angeles, with the goal of surfacing disparities and empowering more equitable clinical care.
 
-##### Biomarkers in ALS
+##### Cell-free DNA biomarkers
 
-Currently, I am developing algorithms for discovering biomarkers in ALS. Most cases of ALS are sporadic. We do not understand the cause of the disease well, and monitoring or diagnosing the disease is difficult because of a lack of a clear biological marker.
-
-To solve this problem, we have developed an algorithm, [CelFiE](https://github.com/christacaggiano/celfie), that estimates the tissue of origin of DNA that ends up circulating in the blood (cfDNA). We have found that CelFiE estimates a higher proportion of cfDNA coming from skeletal muscle in ALS patients, consistent with what we would expect of their disease. We're hoping to explore this result further in future work.
-
-More details about our method can be found in our [paper](https://drive.google.com/file/d/1ClW1fmJ9CNOSDp-P8fT-N0hDEmGprTxA/view?usp=sharing).
-
-
-![CFDNA](/assets/images/cfdna.png)
-![meth](/assets/images/celfie.png)
-![results](/assets/images/results.png)
+Most cases of ALS are sporadic, and the disease is difficult to monitor without a clear molecular marker. I develop methods to read the tissue origins of cell-free DNA circulating in the blood, including CelFiE, which deconvolves cfDNA methylation to estimate its cellular sources. These approaches recover disease-relevant signals, such as elevated skeletal-muscle contributions in ALS, and point toward non-invasive biomarkers for degenerative disease.

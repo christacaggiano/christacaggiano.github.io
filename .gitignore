@@ -1,5 +1,20 @@
+# Jekyll / Sass caches
 .sass-cache
 .sass-cache/*
-*.icloud
 .jekyll-cache/
+.jekyll-metadata
+
+# Local Ruby/Bundler install
+vendor/
+.bundle/
+
+# Working + scratch folders (not part of the site)
+_preview/
+_to_delete/
+Claude outputs/
+
+# macOS / iCloud cruft
+.DS_Store
+**/.DS_Store
+*.icloud
 */*.icloud

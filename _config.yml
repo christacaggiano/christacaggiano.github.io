@@ -1,6 +1,9 @@
 # Site settings
 url: "https://www.christa.science/" # the base hostname & protocol for your site
 twitter_username: christacaggiano
+x_username: christacaggiano
+bluesky_handle: ""   # add your handle, e.g. christacaggiano.bsky.social
+linkedin_username: cmc
 github_username:  christacaggiano
 email: christacaggiano@gmail.com
 
