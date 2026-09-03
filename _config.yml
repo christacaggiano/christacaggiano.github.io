@@ -17,3 +17,8 @@ whitelist:
   - jekyll-redirect-from
 
 future: true
+
+# GitHub Pages auto-generates page titles from the first heading, which the
+# page layout would render as a duplicate title. Disable it.
+titles_from_headings:
+  enabled: false
