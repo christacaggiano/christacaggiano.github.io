@@ -19,6 +19,8 @@ Sharma J, Maldonado B, Ungar RA, Adimoelja A, Flores JP, Gjorgjieva T, Jones K, 
 **Advancing precision health discovery in a genetically diverse health system.**
 Haas R, ... Caggiano C, ... Boutros PC, Geschwind DH. *Cell*, 2026. [doi](https://doi.org/10.1016/j.cell.2026.03.007)
 
+> *UCLA Health: [“Strong patient diversity in biobanks reveals new genetic links to disease risk, treatment response”](https://www.uclahealth.org/news/release/strong-patient-diversity-biobanks-reveals-new-genetic-links)*
+
 **A spectral component approach leveraging identity-by-descent graphs to address recent population structure in genomic analysis.**
 Shemirani R, Belbin GM, Cullina S, Caggiano C, Gignoux CR, Zaitlen N, Kenny EE. *Genome Research*, 2026. [doi](https://doi.org/10.1101/gr.280659.125)
 
@@ -27,6 +29,8 @@ Liou L, Caggiano C. *Trends in Genetics*, 2025. [doi](https://doi.org/10.1016/j.
 
 <strong class="pub-me">Epigenetic profiles of tissue-informative CpGs inform ALS disease status and progression.</strong>
 Caggiano C, Morselli M, Qian X, ... Pellegrini M, Garton FC, Zaitlen N. *Genome Medicine*, 2025. [doi](https://doi.org/10.1186/s13073-025-01542-5)
+
+> *UCLA Health: [“New blood test shows promise in detecting ALS early”](https://www.uclahealth.org/news/release/new-blood-test-shows-promise-detecting-als-early)*
 
 **Brain cell-type shifts in Alzheimer's disease, autism, and schizophrenia interrogated using methylomics and genetics.**
 Yap CX, Vo DD, Heffel MG, ... Caggiano C, ... Luo C, Gandal MJ. *Science Advances*, 2024. [doi](https://doi.org/10.1126/sciadv.adn7655)
@@ -39,6 +43,8 @@ Boltz T, Schwarz T, Bot M, Hou K, Caggiano C, ... Ophoff RA. *American Journal o
 
 <strong class="pub-me">Disease risk and healthcare utilization among ancestrally diverse groups in the Los Angeles region.</strong>
 Caggiano C, Boudaie A, Shemirani R, ... Belbin G, Zaitlen N. *Nature Medicine*, 2023. [doi](https://doi.org/10.1038/s41591-023-02425-1)
+
+> *UCLA Health: [“UCLA biobank study reveals disease risk, health care use among LA’s diverse population”](https://www.uclahealth.org/news/release/ucla-biobank-study-reveals-disease-risk-health-care-use)*
 
 **Leveraging genomic diversity for discovery in an electronic health record linked biobank: the UCLA ATLAS Community Health Initiative.**
 Johnson R, Ding Y, Venkateswaran V, ... Caggiano C, ... Geschwind DH, Pasaniuc B. *Genome Medicine*, 2022. [doi](https://doi.org/10.1186/s13073-022-01106-x)
