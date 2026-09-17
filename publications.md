@@ -44,13 +44,16 @@ Boltz T, Schwarz T, Bot M, Hou K, Caggiano C, ... Ophoff RA. *American Journal o
 <strong class="pub-me">Disease risk and healthcare utilization among ancestrally diverse groups in the Los Angeles region.</strong>
 Caggiano C, Boudaie A, Shemirani R, ... Belbin G, Zaitlen N. *Nature Medicine*, 2023. [doi](https://doi.org/10.1038/s41591-023-02425-1)
 
-> *UCLA Health: [“UCLA biobank study reveals disease risk, health care use among LA’s diverse population”](https://www.uclahealth.org/news/release/ucla-biobank-study-reveals-disease-risk-health-care-use)*
+> *UCLA Health: [“UCLA biobank study reveals disease risk, health care use among LA’s diverse population”](https://www.uclahealth.org/news/release/ucla-biobank-study-reveals-disease-risk-health-care-use)*  
+> *Nature Medicine News & Views: [“Leveraging fine-scale population structures for precision healthcare”](https://www.nature.com/articles/s41591-023-02423-3)*
 
 **Leveraging genomic diversity for discovery in an electronic health record linked biobank: the UCLA ATLAS Community Health Initiative.**
 Johnson R, Ding Y, Venkateswaran V, ... Caggiano C, ... Geschwind DH, Pasaniuc B. *Genome Medicine*, 2022. [doi](https://doi.org/10.1186/s13073-022-01106-x)
 
 <strong class="pub-me">Comprehensive cell-type decomposition of circulating cell-free DNA with CelFiE.</strong>
 Caggiano C, Celona B, Garton F, Mefford J, Black BL, Henderson R, Lomen-Hoerth C, Dahl A, Zaitlen N. *Nature Communications*, 2021. [doi](https://doi.org/10.1038/s41467-021-22901-x)
+
+> *EpiGenie: [“Selfies from Beyond the Grave: CelFiE Deconvolutes Cell-free DNA Methylation Messages”](https://epigenie.com/selfies-from-beyond-the-grave-celfie-deconvolutes-cell-free-dna-methylation-messages/)*
 
 **Genome-wide study of the effect of blood collection tubes on the cell-free DNA methylome.**
 Van Paemel R, De Koker A, Caggiano C, ... De Preter K. *Epigenetics*, 2020. [doi](https://doi.org/10.1080/15592294.2020.1827714)
