@@ -25,7 +25,7 @@ permalink: /resume/
 
 <div class="cv-section" markdown="0">
 <h6>Fellowships &amp; Grants</h6>
-<div class="cv-entry"><div class="cv-year">2026–2027</div><div class="cv-detail"><div class="role">NIH NHGRI F32 Postdoctoral Fellowship</div></div></div>
+<div class="cv-entry"><div class="cv-year">2026–2028</div><div class="cv-detail"><div class="role">NIH NHGRI F32 Postdoctoral Fellowship</div></div></div>
 <div class="cv-entry"><div class="cv-year">2025</div><div class="cv-detail"><div class="role">NIH Extramural Loan Repayment Program, Health Disparities</div></div></div>
 <div class="cv-entry"><div class="cv-year">2021–2023</div><div class="cv-detail"><div class="role">NIH NINDS F31 Predoctoral Fellowship</div></div></div>
 </div>
@@ -40,12 +40,6 @@ permalink: /resume/
 <div class="cv-entry"><div class="cv-year">2016</div><div class="cv-detail"><div class="role">Provost Undergraduate Research Grant, Brandeis</div></div></div>
 </div>
 
-<div class="cv-section" markdown="0">
-<h6>Teaching &amp; Mentoring</h6>
-<div class="cv-entry"><div class="cv-year">2020–present</div><div class="cv-detail"><div class="role">Bioinformatics Mentor, Indigo</div></div></div>
-<div class="cv-entry"><div class="cv-year">2017</div><div class="cv-detail"><div class="role">Teaching Assistant, Introduction to Python</div><div>Brandeis University</div></div></div>
-<div class="cv-entry"><div class="cv-year">2016–2017</div><div class="cv-detail"><div class="role">Provost Teaching Assistant, Physics I &amp; II</div><div>Brandeis University</div></div></div>
-</div>
 
 <div class="cv-section" markdown="0">
 <h6>Invited Presentations</h6>
@@ -63,6 +57,13 @@ permalink: /resume/
 <div class="cv-entry"><div class="cv-year">2019</div><div class="cv-detail"><div class="role">American Society of Human Genetics (ASHG)</div><div>Houston, TX</div></div></div>
 <div class="cv-entry"><div class="cv-year">2019</div><div class="cv-detail"><div class="role">Probabilistic Modeling in Genomics (ProbGen)</div><div>Aussois, France</div></div></div>
 <div class="cv-entry"><div class="cv-year">2018</div><div class="cv-detail"><div class="role">Northern California Computational Biology Symposium</div><div>San Francisco, CA</div></div></div>
+</div>
+
+<div class="cv-section" markdown="0">
+<h6>Teaching &amp; Mentoring</h6>
+<div class="cv-entry"><div class="cv-year">2020–present</div><div class="cv-detail"><div class="role">Bioinformatics Mentor, Indigo</div></div></div>
+<div class="cv-entry"><div class="cv-year">2017</div><div class="cv-detail"><div class="role">Teaching Assistant, Introduction to Python</div><div>Brandeis University</div></div></div>
+<div class="cv-entry"><div class="cv-year">2016–2017</div><div class="cv-detail"><div class="role">Provost Teaching Assistant, Physics I &amp; II</div><div>Brandeis University</div></div></div>
 </div>
 
 <p style="text-align:center; color:#828282;">Selected publications are listed on the <a href="/publications/">publications</a> page.</p>
