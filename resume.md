@@ -32,6 +32,7 @@ permalink: /resume/
 
 <div class="cv-section" markdown="0">
 <h6>Honors &amp; Awards</h6>
+<div class="cv-entry"><div class="cv-year">2026</div><div class="cv-detail"><div class="role">AGBT Precision Health Next Generation Leadership Award</div></div></div>
 <div class="cv-entry"><div class="cv-year">2022</div><div class="cv-detail"><div class="role">ASHG Epstein Trainee Award, Semifinalist</div></div></div>
 <div class="cv-entry"><div class="cv-year">2019</div><div class="cv-detail"><div class="role">UCLA Neurogenetics T32 Trainee</div></div></div>
 <div class="cv-entry"><div class="cv-year">2019</div><div class="cv-detail"><div class="role">ProbGen Trainee Travel Award</div></div></div>
@@ -55,7 +56,8 @@ permalink: /resume/
 
 <div class="cv-section" markdown="0">
 <h6>Oral Presentations</h6>
-<div class="cv-entry"><div class="cv-year">2025</div><div class="cv-detail"><div class="role">American Society of Human Genetics (ASHG)</div><div>Boston, MA</div></div></div>
+<div class="cv-entry"><div class="cv-year">2025</div><div class="cv-detail"><div class="role">Advances in Genome Biology and Technology Precision Health (AGBT) lightning talk</div><div>San Diego, CA</div></div></div>
+<div class="cv-entry"><div class="cv-year">2025</div><div class="cv-detail"><div class="role">American Society of Human Genetics (ASHG) lightning talk</div><div>Boston, MA</div></div></div>
 <div class="cv-entry"><div class="cv-year">2022</div><div class="cv-detail"><div class="role">American Society of Human Genetics (ASHG)</div><div>Los Angeles, CA</div></div></div>
 <div class="cv-entry"><div class="cv-year">2020</div><div class="cv-detail"><div class="role">Research in Computational Molecular Biology (RECOMB)</div><div>Padova, Italy (online)</div></div></div>
 <div class="cv-entry"><div class="cv-year">2019</div><div class="cv-detail"><div class="role">American Society of Human Genetics (ASHG)</div><div>Houston, TX</div></div></div>
