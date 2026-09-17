@@ -25,6 +25,7 @@ permalink: /resume/
 
 <div class="cv-section" markdown="0">
 <h6>Fellowships &amp; Grants</h6>
+<div class="cv-entry"><div class="cv-year">2026–2027</div><div class="cv-detail"><div class="role">Anthropic AI for Science Rare Disease Program</div></div></div>
 <div class="cv-entry"><div class="cv-year">2026–2028</div><div class="cv-detail"><div class="role">NIH NHGRI F32 Postdoctoral Fellowship</div></div></div>
 <div class="cv-entry"><div class="cv-year">2025</div><div class="cv-detail"><div class="role">NIH Extramural Loan Repayment Program, Health Disparities</div></div></div>
 <div class="cv-entry"><div class="cv-year">2021–2023</div><div class="cv-detail"><div class="role">NIH NINDS F31 Predoctoral Fellowship</div></div></div>
