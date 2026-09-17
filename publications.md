@@ -19,8 +19,6 @@ Sharma J, Maldonado B, Ungar RA, Adimoelja A, Flores JP, Gjorgjieva T, Jones K, 
 **Advancing precision health discovery in a genetically diverse health system.**
 Haas R, ... Caggiano C, ... Boutros PC, Geschwind DH. *Cell*, 2026. [doi](https://doi.org/10.1016/j.cell.2026.03.007)
 
-> *UCLA Health: [“Strong patient diversity in biobanks reveals new genetic links to disease risk, treatment response”](https://www.uclahealth.org/news/release/strong-patient-diversity-biobanks-reveals-new-genetic-links)*
-
 **A spectral component approach leveraging identity-by-descent graphs to address recent population structure in genomic analysis.**
 Shemirani R, Belbin GM, Cullina S, Caggiano C, Gignoux CR, Zaitlen N, Kenny EE. *Genome Research*, 2026. [doi](https://doi.org/10.1101/gr.280659.125)
 
